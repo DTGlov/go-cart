@@ -1,0 +1,6 @@
+Cart Breakdown 
+face mask:                ...$45.67 
+beef:                     ...$23.65 
+pancake mix:              ...$45.2 
+assorted chicken:         ...$56.78 
+total:                    ...$171.30
